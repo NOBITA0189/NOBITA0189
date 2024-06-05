@@ -34,10 +34,10 @@
 
 
 <a href="https://github.com/NOBITA0189/NOBITA0189.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOBITA018&repo=managerbot&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOBITA0189&repo=managerbot&cache_seconds=86400&theme=gotham">
 </a>
 
-[<img src="https://github.com/PRADHAN474/PRADHAN474/blob/master/resources/hr.gif"/>](https://github.com/NOBITA_PROFEAY)
+[<img src="https://github.com/NOBITA0189/NOBITA0189/blob/master/resources/hr.gif"/>](https://github.com/NOBITA_PROFEAY)
 
 <h1> <img src="https://telegra.ph/file/cfefd7f47e09bf8c87bde.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
