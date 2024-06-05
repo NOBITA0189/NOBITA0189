@@ -37,11 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOBITA018&repo=managerbot&cache_seconds=86400&theme=gotham">
 </a>
 
-[<img src="https://github.com/PRADHAN474/PRADHAN474/blob/master/resources/hr.gif"/>](https://github.com/NOBITA0189)
+[<img src="https://github.com/PRADHAN474/PRADHAN474/blob/master/resources/hr.gif"/>](https://github.com/NOBITA_PROFEAY)
 
 <h1> <img src="https://telegra.ph/file/cfefd7f47e09bf8c87bde.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://telegra.ph/file/dd5d6642667fa7b095b3b.jpg" width="60px">](https://tg://openmessage?user_id=5059737154) [<img src="https://telegra.ph/file/be434dc46537253ee214f.jpg" width="60px">](https://github.com/PRADHAN474) 
+[<img src="https://telegra.ph/file/dd5d6642667fa7b095b3b.jpg" width="60px">](https://tg://openmessage?user_id=5059737154) [<img src="https://telegra.ph/file/be434dc46537253ee214f.jpg" width="60px">](https://github.com/NOBITA018) 
 
 
 
