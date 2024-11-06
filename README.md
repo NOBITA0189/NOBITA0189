@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NIKKU+𝐗𝐃+🖤+🥀"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐍𝐎𝐁𝐈𝐓𝐀+𝐗𝐃+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
@@ -63,4 +63,4 @@
 ## Connect with Me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/NOBITA018/NOBITA018.git)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MRITYUY)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/NOTA_XD)
